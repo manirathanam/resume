@@ -1,0 +1,36 @@
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    font-family: Roboto;
+}
+.heading{
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #8080805c;
+    padding-left: 3px;
+}
+.content{
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.section{
+   margin-top: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.name-section{
+    font-size: 24px;
+    font-weight: 500;
+}
+.empty{
+    width: 100%;
+    height: 10px;
+}
+.list{
+    display: list-item;
+    list-style-position: inside;
+}
